@@ -1,0 +1,419 @@
+{
+  "body_tolerance": 0.00001,
+  "edges": [
+    {
+      "faces": [
+        0,
+        2
+      ],
+      "index": 0,
+      "label_pixel": [
+        37.0,
+        341.0
+      ],
+      "length": 3.14151328244949,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        0,
+        3
+      ],
+      "index": 1,
+      "label_pixel": [
+        399.0,
+        206.0
+      ],
+      "length": 36.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        0,
+        4
+      ],
+      "index": 2,
+      "label_pixel": [
+        778.0,
+        82.0
+      ],
+      "length": 3.1415132824494902,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        0,
+        5
+      ],
+      "index": 3,
+      "label_pixel": [
+        982.0,
+        215.0
+      ],
+      "length": 26.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        0,
+        6
+      ],
+      "index": 4,
+      "label_pixel": [
+        1163.0,
+        357.0
+      ],
+      "length": 3.1415132824494907,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        0,
+        7
+      ],
+      "index": 5,
+      "label_pixel": [
+        801.0,
+        492.0
+      ],
+      "length": 36.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        0,
+        8
+      ],
+      "index": 6,
+      "label_pixel": [
+        422.0,
+        616.0
+      ],
+      "length": 3.1415132824494907,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        0,
+        1
+      ],
+      "index": 7,
+      "label_pixel": [
+        218.0,
+        483.0
+      ],
+      "length": 26.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        1,
+        8
+      ],
+      "index": 8,
+      "label_pixel": [
+        392.0,
+        708.0
+      ],
+      "length": 10.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        1,
+        9
+      ],
+      "index": 9,
+      "label_pixel": [
+        218.0,
+        685.0
+      ],
+      "length": 26.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        1,
+        2
+      ],
+      "index": 10,
+      "label_pixel": [
+        44.0,
+        460.0
+      ],
+      "length": 10.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        2,
+        9
+      ],
+      "index": 11,
+      "label_pixel": [
+        37.0,
+        543.0
+      ],
+      "length": 3.14151328244949,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        2,
+        3
+      ],
+      "index": 12,
+      "label_pixel": [
+        56.0,
+        427.0
+      ],
+      "length": 10.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        3,
+        9
+      ],
+      "index": 13,
+      "label_pixel": [
+        399.0,
+        408.0
+      ],
+      "length": 36.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        3,
+        4
+      ],
+      "index": 14,
+      "label_pixel": [
+        743.0,
+        187.0
+      ],
+      "length": 10.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        4,
+        9
+      ],
+      "index": 15,
+      "label_pixel": [
+        778.0,
+        284.0
+      ],
+      "length": 3.1415132824494902,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        4,
+        5
+      ],
+      "index": 16,
+      "label_pixel": [
+        808.0,
+        192.0
+      ],
+      "length": 10.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        5,
+        9
+      ],
+      "index": 17,
+      "label_pixel": [
+        982.0,
+        417.0
+      ],
+      "length": 26.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        5,
+        6
+      ],
+      "index": 18,
+      "label_pixel": [
+        1156.0,
+        440.0
+      ],
+      "length": 10.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        6,
+        9
+      ],
+      "index": 19,
+      "label_pixel": [
+        1163.0,
+        559.0
+      ],
+      "length": 3.1415132824494907,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        6,
+        7
+      ],
+      "index": 20,
+      "label_pixel": [
+        1144.0,
+        473.0
+      ],
+      "length": 10.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        7,
+        9
+      ],
+      "index": 21,
+      "label_pixel": [
+        801.0,
+        694.0
+      ],
+      "length": 36.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        7,
+        8
+      ],
+      "index": 22,
+      "label_pixel": [
+        457.0,
+        713.0
+      ],
+      "length": 10.0,
+      "tolerance": 0.00001
+    },
+    {
+      "faces": [
+        8,
+        9
+      ],
+      "index": 23,
+      "label_pixel": [
+        422.0,
+        818.0
+      ],
+      "length": 3.1415132824494907,
+      "tolerance": 0.00001
+    }
+  ],
+  "faces": [
+    {
+      "index": 0,
+      "label_pixel": [
+        600.0,
+        349.0
+      ],
+      "surface": "plane",
+      "tolerance": 0.00001
+    },
+    {
+      "index": 1,
+      "label_pixel": [
+        218.0,
+        584.0
+      ],
+      "surface": "plane",
+      "tolerance": 0.00001
+    },
+    {
+      "index": 2,
+      "label_pixel": [
+        41.0,
+        443.0
+      ],
+      "surface": "cone",
+      "tolerance": 0.00001
+    },
+    {
+      "index": 3,
+      "label_pixel": [
+        399.0,
+        307.0
+      ],
+      "surface": "plane",
+      "tolerance": 0.00001
+    },
+    {
+      "index": 4,
+      "label_pixel": [
+        777.0,
+        185.0
+      ],
+      "surface": "cone",
+      "tolerance": 0.00001
+    },
+    {
+      "index": 5,
+      "label_pixel": [
+        982.0,
+        316.0
+      ],
+      "surface": "plane",
+      "tolerance": 0.00001
+    },
+    {
+      "index": 6,
+      "label_pixel": [
+        1159.0,
+        457.0
+      ],
+      "surface": "cone",
+      "tolerance": 0.00001
+    },
+    {
+      "index": 7,
+      "label_pixel": [
+        801.0,
+        593.0
+      ],
+      "surface": "plane",
+      "tolerance": 0.00001
+    },
+    {
+      "index": 8,
+      "label_pixel": [
+        423.0,
+        715.0
+      ],
+      "surface": "cone",
+      "tolerance": 0.00001
+    },
+    {
+      "index": 9,
+      "label_pixel": [
+        600.0,
+        551.0
+      ],
+      "surface": "plane",
+      "tolerance": 0.00001
+    }
+  ],
+  "file": "/private/tmp/claude-501/-Users-petitcuenotc-Documents-Dev-solidcraft-atelier/aac296d1-928b-42b2-8a58-867b70df8191/scratchpad/diag/3012-filleted-boxes-1e-4-apart-cut--b8.smb",
+  "mesh": {
+    "refused": [],
+    "size": 50.99019513592785,
+    "triangles": 1780
+  },
+  "view": {
+    "azimuth": -35.0,
+    "elevation": 30.0
+  }
+}
